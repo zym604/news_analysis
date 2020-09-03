@@ -1,5 +1,4 @@
-# news_analysis
-基于对财经新闻的语义分析开发的量化交易算法
+# 基于对财经新闻的语义分析开发的量化交易算法
 
 回测结果如下图所示：（国内如不显示请挂VPN，或者直接下载new.PNG图片观看）
 ![alt text](https://github.com/zym604/news_analysis/blob/master/news.PNG)
